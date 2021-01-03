@@ -4,7 +4,7 @@
 
 ![Docker](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Docker/badge.svg) ![Heroku](https://github.com/UnlyEd/n8n-heroku-demo/workflows/Heroku/badge.svg)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UnlyEd/n8n-heroku-demo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mihirogi/n8n-heroku-demo)
 
 New method, just click, configure and get your n8n running.
 Also, now set app stack to container and simply connect this Github repo and deploy, heroku uses default configuration from app.json
